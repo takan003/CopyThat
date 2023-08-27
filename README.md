@@ -17,10 +17,10 @@ The program structure and process are unexpectedly simple, and the time spent wr
 程式架構與流程出乎意料的簡單，撰寫程式所花費的時間，比我在網路上搜尋各種解決方案還要短，這件事讓我這個菜鳥程式設計人員感到驚訝。
 # Restricted 限制
 There is a big problem with this program that needs special attention, otherwise it will be a disaster for users. Do not use a third party to perform the copy for the other two, otherwise a complete copy of files and folders will also appear in the root directory of your own Google drive.  
-> Example:<br />User A copies 10 folders and 500 files shared by user B to the cloud drive of user C through this program, and user C will successfully receive 10 folders and 500 files , but user A will also get 10 folders and 500 files in the root directory of Google drive.  
+> Example:<br />User A uses this program to help user C copy 10 folders and 500 files shared by user B to user C's Google drive, and user C will successfully receive 10 folders and 500 files, but user A will also get 10 folders and 500 files in the root directory of the Google drive.  
 
 這支程式有一個很大的問題要特別注意，否則對使用者來說將是一場災難。不要以第三方替其他兩人執行複製(不要當媒人)，否則在您自己的雲端硬碟根目錄中，也會得到一份完整的檔案與資料。
->舉例：<br />使用者A透過這個程式，將使用者B分享的10個資料夾與500個檔案複製到使用者C的雲端硬碟，使用者C會成功地收到10個資料夾與500個檔案，但是使用者A的雲端硬碟根目錄中同樣會得到10個資料夾與500個檔案。
+>舉例：<br />使用者A透過這個程式，幫助使用者C將使用者B分享的10個資料夾與500個檔案複製到使用者C的雲端硬碟，使用者C會成功地收到10個資料夾與500個檔案，但是使用者A的雲端硬碟根目錄中同樣會得到10個資料夾與500個檔案。
 # How to use 使用說明
 1. Please copy the "CopyThat"(English version) spreadsheet to your Google drive by "Make a copy".  
 請以建立副本的方式，將「拷貝那個」(中文版)試算表複製到自己的雲端硬碟中。

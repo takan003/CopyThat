@@ -28,7 +28,7 @@ There is a big problem with this program that needs special attention, otherwise
 2. After opening the spreadsheet, wait for the "Advanced" function on menu to be displayed, if it is not displayed, please refresh the page once.  
 打開試算表之後，等待「進階功能」功能顯示，若沒有顯示請重新整理網頁一次。
 <img src="https://www.php-pie.net/images/gas/copythat/copythat-002.gif" alt="After opening the spreadsheet, wait for the 'Advanced' function on menu to be displayed, if it is not displayed, please refresh the page once." />
-3. Paste the "**Url** of folder to copy" into the B1 cell, and paste the "**Url** of folder to save" into the B2 cell.  
+3. Paste the "Url of folder to copy" into the B1 cell, and paste the "Url of folder to save" into the B2 cell.  
 將「複製資料夾的連結」貼進B1的儲存格，將「存放資料夾的連結」貼近B2的儲存格。
 <img src="https://www.php-pie.net/images/gas/copythat/copythat-003.gif" alt="Paste the 'Url of folder to copy' into the B1 cell, and paste the 'Url of folder to save' into the B2 cell." />
 3. On first run, the program needs your authorization to gain access to Drive.  

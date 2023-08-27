@@ -42,6 +42,11 @@ There is a big problem with this program that needs special attention, otherwise
 # Troubleshoot 錯誤與解決
 When the program was designed, various situations were preset, such as forgetting to enter the url of the folder, the format of the link was wrong, or the permissions was not shared for the folder to copy, etc. When encountering the above errors, the program will display the error message in a dialogue window or written in "Execution Status". Please follow the message description to troubleshoot the problem.  
 當初在程式設計的時候，已經有預設各種狀況，比如忘記輸入資料夾的連結、連結的格式錯誤，或者複製的資料夾未開啟共用權限等，遇到以上的錯誤時，程式會將錯誤訊息以對話視窗或者寫在「程式執行情形」方式顯示，請您依照訊息說明，排除問題即可。
+# Get the Code 取得程式碼
+1. After downloading the spreadsheet, please click "Apps Script" from the "Extensions" in the function menu to enter the background, and you can get the code.  
+下載試算表之後，請從功能選單中的「擴充功能」點選「Apps Script」進入後台，即可取得程式碼。
+2. You can also directly copy the code from the file in the GitHub repository and paste it into your Apps Script project.  
+您也可以直接在GitHub的repository中的檔案直接複製程式碼，貼上您Apps Script的專案中。
 # Visit & Sponsor 參觀與贊助
 Welcome to my website [PHP-Pie](https://php-pie.net "PHP-Pie"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.:heart:  
 歡迎參觀我的網站 [PHP-Pie](https://php-pie.net "PHP-Pie")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  

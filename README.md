@@ -1,7 +1,7 @@
 ![Copy That!](https://www.php-pie.net/images/CopyThat.png "Copy That!")
 # Download 下載使用
 👉 [English version](https://docs.google.com/spreadsheets/d/1oWTF7TRUZlMzjav9LxExCMWfXQuLtIKh_PFhP3j8syE/copy) 👉 [中文版本](https://docs.google.com/spreadsheets/d/1Zn68t9-4FbS2dqQwphm-0xGUUFbKlIuUQ_jLFeHzcWM/copy)
-# Features 特徵
+# Features 特色
 1. No installations, no bloatware, no updates: this works in any modern browser, including Google Chrome, Firefox, Edge and Safari.  
 不需要安裝，不需要外掛，不用升級，適用於最新版本的各種瀏覽器。
 2. Through the program, you can copy the Google drive data shared by others (including files and folders of different layers) to your own Google drive intact.  

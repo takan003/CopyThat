@@ -75,7 +75,8 @@ function makeCopy() {
   var files = copyFolder.getFiles(); //get and copy files in first level
   while(files.hasNext()){
     var file = files.next();
-    file.makeCopy(file.getName(), saveFolder);
+    var newFile = file.makeCopy(file.getName(), saveFolder);
+    newFile.moveTo(saveFolder);
     sumFiles++;
   }
   //go to next level folder to find files and folders
@@ -100,7 +101,8 @@ function goNext(subFolder, saveFolder){
   //copied all files in sub folder
   while(files.hasNext()){
     var file = files.next();
-    file.makeCopy(file.getName(), saveSubFolder);
+    var newFile = file.makeCopy(file.getName(), saveSubFolder);
+    newFile.moveTo(saveSubFolder);
     sumFiles++
   }
   //if find sub folder, and call function goNext again

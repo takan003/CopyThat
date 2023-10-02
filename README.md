@@ -1,6 +1,6 @@
 ![Copy That!](https://www.php-pie.net/images/CopyThat.png "Copy That!")
 # Fix bugs 🐛
-2023-10-02 Fixed the problem of copying Apps Script type files to the root directory. 修正Apps Script類型檔案複製至根目錄的問題。
+2023-10-02 Fixed an issue where Apps Script type files were not correctly copied to the specified folder. 修正Apps Script類型檔案未正確地複製至指定的資料夾。
 # Download 下載使用
 👉 [English version](https://docs.google.com/spreadsheets/d/1oWTF7TRUZlMzjav9LxExCMWfXQuLtIKh_PFhP3j8syE/copy) 👉 [中文版本](https://docs.google.com/spreadsheets/d/1Zn68t9-4FbS2dqQwphm-0xGUUFbKlIuUQ_jLFeHzcWM/copy)
 # Features 特色

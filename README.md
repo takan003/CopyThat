@@ -50,8 +50,8 @@ When the program was designed, various situations were preset, such as forgettin
 2. You can also directly copy the code from the file in the GitHub repository and paste it into your Apps Script project.  
 您也可以直接在GitHub的repository中的檔案直接複製程式碼，貼上您Apps Script的專案中。
 # Visit & Sponsor 參觀與贊助
-Welcome to my website [GAS]([https://php-pie.net](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec) "GAS"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.:heart:  
-歡迎參觀我的網站 [GAS]([https://php-pie.net](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec) "GAS")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  
+Welcome to my website [GAS]([https://php-pie.net](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec) "GAS"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.❤️  
+歡迎參觀我的網站 [GAS]([https://php-pie.net](https://script.google.com/a/macros/gms.hlgs.hlc.edu.tw/s/AKfycbzS29sVfv6vUKcXY8zhHl8XZKU52VfvjxzqeEQACrAufS7JiWOexlIYgyfgtCusAVJt/exec) "GAS")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。❤️  
 Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 # About Name 關於名稱
 ![Program's names](https://www.php-pie.net/images/gas/copythat/programName.png "Program's names")  
